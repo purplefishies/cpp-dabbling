@@ -1,0 +1,3 @@
+*.txt eol=lf
+CMakeLists.txt eol=lf
+*.cpp eol=lf

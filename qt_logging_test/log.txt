@@ -1,0 +1,192 @@
+A debug message
+An info message
+Big error
+Here i am
+Another place
+Something is strange...
+Oops...a problem
+An info message
+CAn't continue....
+[32m13:05:44.405[38;5;174m main[0m:D [34mA debug message[0m 
+[32m13:05:44.409[38;5;174m main[0m:I [38mAn info message[0m 
+[32m13:05:44.411[38;5;174m main[0m:C [38;5;202mBig error[0m 
+[32m13:05:44.414[38;5;174m do_something[0m:D [34mHere i am[0m 
+[32m13:05:44.416[38;5;174m do_something_else[0m:D [34mAnother place[0m 
+[32m13:05:44.419[38;5;174m do_something_else[0m:W [38;5;221mSomething is strange...[0m 
+[32m13:05:44.423[38;5;174m do_something[0m:C [38;5;202mOops...a problem[0m 
+[32m13:05:44.427[38;5;174m do_something[0m:I [38mAn info message[0m 
+[32m13:05:44.430[38;5;174m do_fatal[0m:F [38;5;198mCAn't continue....[0m 
+[34mC:\cygwin64\home\JDamon\Projects\qt_logging_test\logtest.cpp A debug message
+ [0mC:\cygwin64\home\JDamon\Projects\qt_logging_test\logtest.cpp An info message
+ [38;2;215;135;135mC:\cygwin64\home\JDamon\Projects\qt_logging_test\logtest.cpp Big error
+ [0m[34mC:\cygwin64\home\JDamon\Projects\qt_logging_test\logtest.cpp Here i am
+ [0m[34mC:\cygwin64\home\JDamon\Projects\qt_logging_test\logtest.cpp Another place
+ [0mC:\cygwin64\home\JDamon\Projects\qt_logging_test\logtest.cpp Something is strange...
+ [38;2;215;135;135mC:\cygwin64\home\JDamon\Projects\qt_logging_test\logtest.cpp Oops...a problem
+ [0mC:\cygwin64\home\JDamon\Projects\qt_logging_test\logtest.cpp An info message
+ C:\cygwin64\home\JDamon\Projects\qt_logging_test\logtest.cpp CAn't continue....
+ [34m2024-08-13 13:55:29,425 DEBUG [0x00003264] logtest.cpp:__cdecl main: [36m A debug message
+[0m[0m2024-08-13 13:55:29,426 INFO  [0x00003264] logtest.cpp:__cdecl main: [32m An info message
+[0m[38;2;215;135;135m2024-08-13 13:55:29,426 ERROR [0x00003264] logtest.cpp:__cdecl main: [31m Big error
+[0m[0m[34m2024-08-13 13:55:29,427 DEBUG [0x00003264] logtest.cpp:__cdecl do_something: [36m Here i am
+[0m[0m[34m2024-08-13 13:55:29,427 DEBUG [0x00003264] logtest.cpp:__cdecl do_something_else: [36m Another place
+[0m[0m2024-08-13 13:55:29,428 WARN  [0x00003264] logtest.cpp:__cdecl do_something_else: [33m Something is strange...
+[0m[38;2;215;135;135m2024-08-13 13:55:29,428 ERROR [0x00003264] logtest.cpp:__cdecl do_something: [31m Oops...a problem
+[0m[0m2024-08-13 13:55:29,429 INFO  [0x00003264] logtest.cpp:__cdecl do_something: [32m An info message
+[0m2024-08-13 13:55:29,429 FATAL [0x00003264] logtest.cpp:__cdecl do_fatal: [35m CAn't continue....
+[0mA debug message
+An info message
+Big error
+Here i am
+Another place
+Something is strange...
+Oops...a problem
+An info message
+CAn't continue....
+A debug message
+An info message
+Big error
+Here i am
+Another place
+Something is strange...
+Oops...a problem
+An info message
+CAn't continue....
+An info message
+Big error
+Something is strange...
+Oops...a problem
+An info message
+CAn't continue....
+(333248)/(default) \[31munknown\[0m: An info message
+(333248)/(default) \[31munknown\[0m: Big error
+(333248)/(default) \[31munknown\[0m: Something is strange...
+(333248)/(default) \[31munknown\[0m: Oops...a problem
+(333248)/(default) \[31munknown\[0m: An info message
+(333248)/(default) \[31munknown\[0m: CAn't continue....
+(333627)/(default) $c\[31munknown$c\[0m: An info message
+(333627)/(default) $c\[31munknown$c\[0m: Big error
+(333627)/(default) $c\[31munknown$c\[0m: Something is strange...
+(333627)/(default) $c\[31munknown$c\[0m: Oops...a problem
+(333627)/(default) $c\[31munknown$c\[0m: An info message
+(333627)/(default) $c\[31munknown$c\[0m: CAn't continue....
+(334014)/(default) \[31munknown\[0m: An info message
+(334014)/(default) \[31munknown\[0m: Big error
+(334014)/(default) \[31munknown\[0m: Something is strange...
+(334014)/(default) \[31munknown\[0m: Oops...a problem
+(334014)/(default) \[31munknown\[0m: An info message
+(334014)/(default) \[31munknown\[0m: CAn't continue....
+[34munknown[0m: An info message
+[34munknown[0m: Big error
+[34munknown[0m: Something is strange...
+[34munknown[0m: Oops...a problem
+[34munknown[0m: An info message
+[34munknown[0m: CAn't continue....
+(334874)/(default) \[31munknown\[0m: An info message
+(334874)/(default) \[31munknown\[0m: Big error
+(334874)/(default) \[31munknown\[0m: Something is strange...
+(334874)/(default) \[31munknown\[0m: Oops...a problem
+(334874)/(default) \[31munknown\[0m: An info message
+(334874)/(default) \[31munknown\[0m: CAn't continue....
+[32m21:46:11.141 [0m An info message
+[32m21:46:11.151 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m Big error
+[32m21:46:11.155 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m Something is strange...
+[32m21:46:11.158 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m Oops...a problem
+[32m21:46:11.161 [0m An info message
+[32m21:46:11.161 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m CAn't continue....
+[32m7:06:20.684 [0m An info message
+[32m7:06:20.685 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m Big error
+[32m7:06:20.688 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m Something is strange...
+[32m7:06:20.692 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m Oops...a problem
+[32m7:06:20.696 [0m An info message
+[32m7:06:20.696 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m CAn't continue....
+[32m7:19:35.173 [34munknown[0m A debug message
+[32m7:19:35.173 [0m An info message
+[32m7:19:35.173 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m Big error
+[32m7:19:35.176 [34munknown[0m Here i am
+[32m7:19:35.177 [34munknown[0m Another place
+[32m7:19:35.177 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m Something is strange...
+[32m7:19:35.180 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m Oops...a problem
+[32m7:19:35.183 [0m An info message
+[32m7:19:35.183 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m CAn't continue....
+\033[32m7:20:42.122 \033[34munknown\033[0m A debug message
+\033[32m7:20:42.122 \033[0m An info message
+\033[32m7:20:42.122 \033[31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?\033[0m Big error
+\033[32m7:20:42.126 \033[34munknown\033[0m Here i am
+\033[32m7:20:42.126 \033[34munknown\033[0m Another place
+\033[32m7:20:42.126 \033[31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?\033[0m Something is strange...
+\033[32m7:20:42.129 \033[31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?\033[0m Oops...a problem
+\033[32m7:20:42.132 \033[0m An info message
+\033[32m7:20:42.132 \033[31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?\033[0m CAn't continue....
+[32m7:21:17.591 [34munknown[0m A debug message
+[32m7:21:17.592 [0m An info message
+[32m7:21:17.592 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m Big error
+[32m7:21:17.595 [34munknown[0m Here i am
+[32m7:21:17.595 [34munknown[0m Another place
+[32m7:21:17.595 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m Something is strange...
+[32m7:21:17.598 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m Oops...a problem
+[32m7:21:17.601 [0m An info message
+[32m7:21:17.601 [31m?logtest?|?libQt6Core.so.6?|?libQt6Core.so.6?[0m CAn't continue....
+7:24:12.084 unknown:D [34mA debug message[0m
+7:24:12.085 unknown:I [37mAn info message[0m
+7:24:12.085 unknown:C [38;5;208mBig error[0m
+7:24:12.085 unknown:D [34mHere i am[0m
+7:24:12.085 unknown:D [34mAnother place[0m
+7:24:12.085 unknown:W [38;5;208mSomething is strange...[0m
+7:24:12.085 unknown:C [38;5;208mOops...a problem[0m
+7:24:12.085 unknown:I [37mAn info message[0m
+7:24:12.085 unknown:F [35mCAn't continue....[0m
+7:37:42.600 unknown:D [38;2;26;132;198mA debug message[0m
+7:37:42.601 unknown:I [38;2;255;255;255mAn info message[0m
+7:37:42.601 unknown:C [38;2;254;95;0mBig error[0m
+7:37:42.601 unknown:D [38;2;26;132;198mHere i am[0m
+7:37:42.601 unknown:D [38;2;26;132;198mAnother place[0m
+7:37:42.601 unknown:W [38;2;255;215;95mSomething is strange...[0m
+7:37:42.601 unknown:C [38;2;254;95;0mOops...a problem[0m
+7:37:42.601 unknown:I [38;2;255;255;255mAn info message[0m
+7:37:42.602 unknown:F [38;2;255;0;135mCAn't continue....[0m
+7:45:56.272 main:D [38;2;26;132;198mA debug message[0m
+7:45:56.272 main:I [38;2;255;255;255mAn info message[0m
+7:45:56.272 main:C [38;2;254;95;0mBig error[0m
+7:45:56.272 do_something:D [38;2;26;132;198mHere i am[0m
+7:45:56.273 do_something_else:D [38;2;26;132;198mAnother place[0m
+7:45:56.273 do_something_else:W [38;2;255;215;95mSomething is strange...[0m
+7:45:56.273 do_something:C [38;2;254;95;0mOops...a problem[0m
+7:45:56.273 do_something:I [38;2;255;255;255mAn info message[0m
+7:45:56.273 do_fatal:F [38;2;255;0;135mCAn't continue....[0m
+7:48:20.417 main:D [38;2;26;132;198mA debug message[0m
+7:48:20.993 main:I [38;2;255;255;255mAn info message[0m
+7:48:21.634 main:C [38;2;254;95;0mBig error[0m
+7:48:24.353 do_something:D [38;2;26;132;198mHere i am[0m
+7:48:29.447 do_something_else:D [38;2;26;132;198mAnother place[0m
+7:48:31.053 do_something_else:W [38;2;255;215;95mSomething is strange...[0m
+7:48:34.967 do_something:C [38;2;254;95;0mOops...a problem[0m
+7:48:37.277 do_something:I [38;2;255;255;255mAn info message[0m
+7:48:45.120 do_fatal:F [38;2;255;0;135mCAn't continue....[0m
+7:48:56.789 main:D [38;2;26;132;198mA debug message[0m
+7:48:56.789 main:I [38;2;255;255;255mAn info message[0m
+7:48:56.789 main:C [38;2;254;95;0mBig error[0m
+7:48:56.790 do_something:D [38;2;26;132;198mHere i am[0m
+7:48:56.790 do_something_else:D [38;2;26;132;198mAnother place[0m
+7:48:56.790 do_something_else:W [38;2;255;215;95mSomething is strange...[0m
+7:48:56.790 do_something:C [38;2;254;95;0mOops...a problem[0m
+7:48:56.790 do_something:I [38;2;255;255;255mAn info message[0m
+7:48:56.790 do_fatal:F [38;2;255;0;135mCAn't continue....[0m
+7:50:38.817 main:D [38;2;26;132;198mA debug message[0m
+7:50:38.817 main:I [38;2;255;255;255mAn info message[0m
+7:50:38.817 main:C [38;2;254;95;0mBig error[0m
+7:50:38.818 do_something:D [38;2;26;132;198mHere i am[0m
+7:50:38.818 do_something_else:D [38;2;26;132;198mAnother place[0m
+7:50:38.818 do_something_else:W [38;2;255;215;95mSomething is strange...[0m
+7:50:38.818 do_something:C [38;2;254;95;0mOops...a problem[0m
+7:50:38.818 do_something:I [38;2;255;255;255mAn info message[0m
+7:50:38.818 do_fatal:F [38;2;255;0;135mCAn't continue....[0m
+7:51:11.447 main:D [38;2;26;132;198mA debug message[0m
+7:51:11.448 main:I [38;2;255;255;255mAn info message[0m
+7:51:11.448 main:C [38;2;254;95;0mBig error[0m
+7:51:11.448 do_something:D [38;2;26;132;198mHere i am[0m
+7:51:11.448 do_something_else:D [38;2;26;132;198mAnother place[0m
+7:51:11.448 do_something_else:W [38;2;255;215;95mSomething is strange...[0m
+7:51:11.448 do_something:C [38;2;254;95;0mOops...a problem[0m
+7:51:11.448 do_something:I [38;2;255;255;255mAn info message[0m
+7:51:11.448 do_fatal:F [38;2;255;0;135mCAn't continue....[0m
