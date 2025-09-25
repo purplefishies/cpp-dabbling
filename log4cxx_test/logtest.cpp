@@ -6,7 +6,7 @@
 
 class CustomLayout : public log4cxx::PatternLayout {
 public:
-    CustomLayout() : log4cxx::PatternLayout( (std::getenv("GEODETICS_LOG_FMT") == nullptr ? "%d %-5p [%t] %f:%M: %Y %m%n%y" : std::getenv("GEODETICS_LOG_FMT"))) {
+    CustomLayout() : log4cxx::PatternLayout( (std::getenv("GEODETICS_LOG_FMT") == nullptr ? "%d{yyyy-MM-dd HH:mm:ss.SSS} %-5p [%t] %f:%M: %Y %m%n%y" : std::getenv("GEODETICS_LOG_FMT"))) {
       
     }
 };
